@@ -1,0 +1,18 @@
+{
+    "description": "Obsidian is the private and flexible writing app that adapts to the way you think.",
+    "docker_registry": "https://index.docker.io/v1/",
+    "name": "joekinley/obsidian-workspace:develop",
+    "image_src": "obsidian-logo-gradient.png",
+    "categories": [
+      "Development"
+    ],
+    "friendly_name": "Obsidian",
+    "architecture": [
+      "amd64"
+    ],
+    "compatibility": [
+      "1.13.x",
+      "1.14.x"
+    ],
+    "uncompressed_size_mb": 2990
+  }
